@@ -41,7 +41,8 @@ A maioria dos sensores ultrassônicos baseia-se no princípio de medir o tempo d
 <h3>Sensor de proximidade</h3><br>
 Sensores de proximidade ultrassônicos são o tipo mais simples de detecção ultrassônica de objetos. O transmissor e o receptor estão integrados numa caixa. O ultrassom é refletido diretamente do objeto a ser detectado para o receptor. Os sensores ultrassônicos com função de programação diferem dos tipos convencionais pela sua utilização simplificada e mais diversificada simplesmente pressionando um botão.<br>
 
-![39ba31fc-ee8d-4a99-84a5-80ae1d93b9a3](https://github.com/user-attachments/assets/420ca2df-5397-412f-a2b9-936f34617f5e)
+![Sensores-de-proximidade-ultrassonica-estrutura](https://github.com/user-attachments/assets/c776f602-79aa-47e9-8594-1652e5a987ef)
+
 
 <h4>Áreas de aplicação típicas:</h4><br>
 
@@ -54,7 +55,7 @@ Medição da altura da pilha<br>
 
 Em contraste com os sensores de proximidade ultrassônicos, as barreiras de reflexão ultrassônicas requerem um refletor estacionário como referência, que reflete o sinal ultrassônico. Um objeto que chega entre o sensor e o refletor de referência resulta numa mudança no caminho do sinal. Isto pode ser, por exemplo, uma distância medida mais curta através de um objeto que cobre completamente o refletor, um eco adicional através de um objeto pequeno ou uma perda de eco através de objetos fortemente absorventes. Isso aciona a comutação do sensor. <br>
 
-![a418d279-bbd4-4ea2-88d7-3ed2fefd5bd7](https://github.com/user-attachments/assets/e79c6880-a769-45db-a799-d55db8bdd656)
+![Barreira-de-reflexao-ultrassonica-estrutura-Teaser](https://github.com/user-attachments/assets/f4a94fa9-9201-4d52-8188-e472bb039c5d)
 
 <h4>Áreas de aplicação típicas:</h4><br>
 
@@ -66,7 +67,7 @@ Materiais de absorção de som, como algodão e espuma de borracha<br>
 Barreiras ultrassônicos unidirecionais : oferecem tempos de resposta curtos e longo alcance. O transmissor e o receptor estão colocados em duas caixas separadas. O transmissor emite continuamente ondas sonoras que chegam ao receptor pelo ar. Se um objeto interromper as ondas sonoras, o receptor muda para o estágio de saída.
 Detecção de objetos em rápida sucessão. 
 
-![81897d67-2ef6-49fd-a3a3-ed0405a6bd91](https://github.com/user-attachments/assets/39a8b34e-6e93-431a-8ce4-1b758b9f7bec)
+![Barreira-unidirectional-ultrassonica-estrutura](https://github.com/user-attachments/assets/c4312207-dce5-49f4-84f2-552ea399592f)
 
 <h4>Áreas de aplicação típicas:</h4><br>
 
